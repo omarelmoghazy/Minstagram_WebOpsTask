@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "omarelmoghazy1@gmail.com",
+      "password": "$2a$10$F/UDnzAkARs8DcZadeoYYezwi4DcN7yhs9i3NF869Qg660vXKgrZe",
+      "id": 1,
+      "profilePicture": "./"
+    },
+    {
+      "email": "omar2009_ulrick@hotmail.com",
+      "password": "$2a$10$IHfrekEN8zmcBcmHoYJuBOdpwmlfYQqT1y0VvRo9GQVn24TMXbZkO",
+      "id": 2
+    },
+    {
+      "email": "omarelmoghazy@gmail.com",
+      "password": "$2a$10$eEjNrEJkJEiOP1sA.jhO3uywBdt.f5WXbBgQsGnJQidTYpEmKkFwq",
+      "id": 3
+    },
+    {
+      "email": "hamada@gmail.com",
+      "password": "$2a$10$drz.8lw8ei.wjMlfaxdcdeDcmTi9knh.8.y.Z22haJXRTVly/d2Y6",
+      "id": 4
+    },
+    {
+      "email": "hasan@gmail.com",
+      "password": "$2a$10$qJ3fe0AEYayNpFOKEU4GUeBnMYJUqpqV1ZVWJQGu1I7a1ccaR6UaC",
+      "id": 5
+    },
+    {
+      "email": "eren@gmail.com",
+      "password": "$2a$10$tq.3KF/rLjPZAH2OgMFyz.l81HqMaJu9XqcAYIHPze7iaqSShKkmC",
+      "id": 6
+    },
+    {
+      "email": "ahmed@gmail.com",
+      "password": "$2a$10$brjrNnTBDdC7H1zPwUoHX.inljMAgSiKkrI7pvKFcQVowByyGz9H6",
+      "id": 7
+    },
+    {
+      "email": "erwin@gmail.com",
+      "password": "$2a$10$.WeEqcC0Dpn3OHZYfpajAuRb.nPppyCVqYyUD1BflOGDZPRja0E4G",
+      "id": 8
+    }
+  ]
+}
