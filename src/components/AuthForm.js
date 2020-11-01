@@ -39,7 +39,7 @@ const AuthForm = ({ buttonTitle, buttonFunction }) => {
             />
             <Button
                 title={buttonTitle}
-                buttonStyle= {{backgroundColor: '#ff6666'}}
+                buttonStyle= {styles.buttonStyle}
                 onPress={() => { 
                     buttonFunction(email, password 
                     )
@@ -52,6 +52,11 @@ const AuthForm = ({ buttonTitle, buttonFunction }) => {
 const styles = StyleSheet.create({
     imageStyle: {
         width: 200, height: 200, alignSelf: 'center', marginBottom: 40
+    },
+    buttonStyle: {
+        backgroundColor: "#ff6666",
+        width: 150,
+        alignSelf: 'center',
     }
 })
 
